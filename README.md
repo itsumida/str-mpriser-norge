@@ -1,5 +1,7 @@
 # Norwegian Electricity Prices Dashboard ⚡
 
+Site live at https://strompriser-norge-monster.streamlit.app/
+
 An interactive dashboard for analyzing electricity price trends across Norway's five regions from 2014-2024.
 
 ## Features
